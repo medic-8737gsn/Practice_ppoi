@@ -1,2 +1,4 @@
 test text
 change text on remote repository!
+*
+change text on local repository!
